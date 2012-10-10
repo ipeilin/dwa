@@ -1,5 +1,5 @@
 <pre>
-Hello World!
+goodbye World!
 Controller: c_index.php
 Method: index()
 View: v_index_index.php
